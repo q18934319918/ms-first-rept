@@ -1,0 +1,259 @@
+[2024-12-10 00:03:43,766][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/register"]')
+[2024-12-10 00:03:43,905][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:03:43,906][base_page.py 36][INFO]: 定位元素('id', 'jsRegMobile')
+[2024-12-10 00:03:44,041][base_page.py 63][INFO]: 输入内容为13800005555
+[2024-12-10 00:03:44,041][base_page.py 36][INFO]: 定位元素('id', 'jsSendCode')
+[2024-12-10 00:03:44,115][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:03:44,115][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = 13800005555 order by id DESC limit 1
+[2024-12-10 00:03:44,143][mysql_util.py 28][INFO]: sql执行结果{'code': '6883'}
+[2024-12-10 00:03:44,143][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegCaptcha')
+[2024-12-10 00:03:44,262][base_page.py 63][INFO]: 输入内容为6883
+[2024-12-10 00:03:44,263][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegPwd')
+[2024-12-10 00:03:44,369][base_page.py 63][INFO]: 输入内容为123456
+[2024-12-10 00:03:44,369][base_page.py 36][INFO]: 定位元素('id', 'jsMobileRegBtn')
+[2024-12-10 00:03:44,445][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:03:44,445][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:03:54,958][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/userinfo"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7767A2775+28773]
+	(No symbol) [0x00007FF77670AFB0]
+	(No symbol) [0x00007FF7765A552A]
+	(No symbol) [0x00007FF7765F8EAE]
+	(No symbol) [0x00007FF7765F919C]
+	(No symbol) [0x00007FF7766423F7]
+	(No symbol) [0x00007FF77661EFDF]
+	(No symbol) [0x00007FF77663F1A4]
+	(No symbol) [0x00007FF77661ED43]
+	(No symbol) [0x00007FF7765EA548]
+	(No symbol) [0x00007FF7765EB6B1]
+	GetHandleVerifier [0x00007FF776ACF45D+3358029]
+	GetHandleVerifier [0x00007FF776AE430D+3443709]
+	GetHandleVerifier [0x00007FF776AD83FD+3394797]
+	GetHandleVerifier [0x00007FF77686929B+842635]
+	(No symbol) [0x00007FF77671654F]
+	(No symbol) [0x00007FF776711FA4]
+	(No symbol) [0x00007FF77671213D]
+	(No symbol) [0x00007FF776701629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-10 00:03:54,958][base_page.py 46][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-10 00:03:54,958][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:04:05,530][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/userinfo"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7767A2775+28773]
+	(No symbol) [0x00007FF77670AFB0]
+	(No symbol) [0x00007FF7765A552A]
+	(No symbol) [0x00007FF7765F8EAE]
+	(No symbol) [0x00007FF7765F919C]
+	(No symbol) [0x00007FF7766423F7]
+	(No symbol) [0x00007FF77661EFDF]
+	(No symbol) [0x00007FF77663F1A4]
+	(No symbol) [0x00007FF77661ED43]
+	(No symbol) [0x00007FF7765EA548]
+	(No symbol) [0x00007FF7765EB6B1]
+	GetHandleVerifier [0x00007FF776ACF45D+3358029]
+	GetHandleVerifier [0x00007FF776AE430D+3443709]
+	GetHandleVerifier [0x00007FF776AD83FD+3394797]
+	GetHandleVerifier [0x00007FF77686929B+842635]
+	(No symbol) [0x00007FF77671654F]
+	(No symbol) [0x00007FF776711FA4]
+	(No symbol) [0x00007FF77671213D]
+	(No symbol) [0x00007FF776701629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-10 00:04:44,328][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/register"]')
+[2024-12-10 00:04:44,446][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:04:44,446][base_page.py 36][INFO]: 定位元素('id', 'jsRegMobile')
+[2024-12-10 00:04:44,599][base_page.py 63][INFO]: 输入内容为13800005555
+[2024-12-10 00:04:44,599][base_page.py 36][INFO]: 定位元素('id', 'jsSendCode')
+[2024-12-10 00:04:44,675][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:04:44,676][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = 13800005555 order by id desc limit 1;
+[2024-12-10 00:04:44,705][mysql_util.py 28][INFO]: sql执行结果{'code': '5066'}
+[2024-12-10 00:04:44,705][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegCaptcha')
+[2024-12-10 00:04:44,820][base_page.py 63][INFO]: 输入内容为5066
+[2024-12-10 00:04:44,820][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegPwd')
+[2024-12-10 00:04:44,918][base_page.py 63][INFO]: 输入内容为123456
+[2024-12-10 00:04:44,918][base_page.py 36][INFO]: 定位元素('id', 'jsMobileRegBtn')
+[2024-12-10 00:04:44,989][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:04:44,989][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:04:55,523][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/userinfo"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7767A2775+28773]
+	(No symbol) [0x00007FF77670AFB0]
+	(No symbol) [0x00007FF7765A552A]
+	(No symbol) [0x00007FF7765F8EAE]
+	(No symbol) [0x00007FF7765F919C]
+	(No symbol) [0x00007FF7766423F7]
+	(No symbol) [0x00007FF77661EFDF]
+	(No symbol) [0x00007FF77663F1A4]
+	(No symbol) [0x00007FF77661ED43]
+	(No symbol) [0x00007FF7765EA548]
+	(No symbol) [0x00007FF7765EB6B1]
+	GetHandleVerifier [0x00007FF776ACF45D+3358029]
+	GetHandleVerifier [0x00007FF776AE430D+3443709]
+	GetHandleVerifier [0x00007FF776AD83FD+3394797]
+	GetHandleVerifier [0x00007FF77686929B+842635]
+	(No symbol) [0x00007FF77671654F]
+	(No symbol) [0x00007FF776711FA4]
+	(No symbol) [0x00007FF77671213D]
+	(No symbol) [0x00007FF776701629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-10 00:04:55,523][base_page.py 46][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-10 00:04:55,523][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:05:06,064][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/userinfo"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7767A2775+28773]
+	(No symbol) [0x00007FF77670AFB0]
+	(No symbol) [0x00007FF7765A552A]
+	(No symbol) [0x00007FF7765F8EAE]
+	(No symbol) [0x00007FF7765F919C]
+	(No symbol) [0x00007FF7766423F7]
+	(No symbol) [0x00007FF77661EFDF]
+	(No symbol) [0x00007FF77663F1A4]
+	(No symbol) [0x00007FF77661ED43]
+	(No symbol) [0x00007FF7765EA548]
+	(No symbol) [0x00007FF7765EB6B1]
+	GetHandleVerifier [0x00007FF776ACF45D+3358029]
+	GetHandleVerifier [0x00007FF776AE430D+3443709]
+	GetHandleVerifier [0x00007FF776AD83FD+3394797]
+	GetHandleVerifier [0x00007FF77686929B+842635]
+	(No symbol) [0x00007FF77671654F]
+	(No symbol) [0x00007FF776711FA4]
+	(No symbol) [0x00007FF77671213D]
+	(No symbol) [0x00007FF776701629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-10 00:10:29,508][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/register"]')
+[2024-12-10 00:10:29,657][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:10:29,657][base_page.py 36][INFO]: 定位元素('id', 'jsRegMobile')
+[2024-12-10 00:10:29,795][base_page.py 63][INFO]: 输入内容为13800005555
+[2024-12-10 00:10:29,795][base_page.py 36][INFO]: 定位元素('id', 'jsSendCode')
+[2024-12-10 00:10:29,873][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:10:29,873][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = 13800005555 order by id desc limit 1;
+[2024-12-10 00:10:29,898][mysql_util.py 28][INFO]: sql执行结果{'code': '5439'}
+[2024-12-10 00:10:29,899][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegCaptcha')
+[2024-12-10 00:10:30,010][base_page.py 63][INFO]: 输入内容为5439
+[2024-12-10 00:10:30,010][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegPwd')
+[2024-12-10 00:10:30,111][base_page.py 63][INFO]: 输入内容为123456
+[2024-12-10 00:10:30,111][base_page.py 36][INFO]: 定位元素('id', 'jsMobileRegBtn')
+[2024-12-10 00:10:30,183][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:10:30,184][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:10:40,701][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/userinfo"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7767A2775+28773]
+	(No symbol) [0x00007FF77670AFB0]
+	(No symbol) [0x00007FF7765A552A]
+	(No symbol) [0x00007FF7765F8EAE]
+	(No symbol) [0x00007FF7765F919C]
+	(No symbol) [0x00007FF7766423F7]
+	(No symbol) [0x00007FF77661EFDF]
+	(No symbol) [0x00007FF77663F1A4]
+	(No symbol) [0x00007FF77661ED43]
+	(No symbol) [0x00007FF7765EA548]
+	(No symbol) [0x00007FF7765EB6B1]
+	GetHandleVerifier [0x00007FF776ACF45D+3358029]
+	GetHandleVerifier [0x00007FF776AE430D+3443709]
+	GetHandleVerifier [0x00007FF776AD83FD+3394797]
+	GetHandleVerifier [0x00007FF77686929B+842635]
+	(No symbol) [0x00007FF77671654F]
+	(No symbol) [0x00007FF776711FA4]
+	(No symbol) [0x00007FF77671213D]
+	(No symbol) [0x00007FF776701629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-10 00:10:40,701][base_page.py 46][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-10 00:10:40,701][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:10:51,227][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/userinfo"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7767A2775+28773]
+	(No symbol) [0x00007FF77670AFB0]
+	(No symbol) [0x00007FF7765A552A]
+	(No symbol) [0x00007FF7765F8EAE]
+	(No symbol) [0x00007FF7765F919C]
+	(No symbol) [0x00007FF7766423F7]
+	(No symbol) [0x00007FF77661EFDF]
+	(No symbol) [0x00007FF77663F1A4]
+	(No symbol) [0x00007FF77661ED43]
+	(No symbol) [0x00007FF7765EA548]
+	(No symbol) [0x00007FF7765EB6B1]
+	GetHandleVerifier [0x00007FF776ACF45D+3358029]
+	GetHandleVerifier [0x00007FF776AE430D+3443709]
+	GetHandleVerifier [0x00007FF776AD83FD+3394797]
+	GetHandleVerifier [0x00007FF77686929B+842635]
+	(No symbol) [0x00007FF77671654F]
+	(No symbol) [0x00007FF776711FA4]
+	(No symbol) [0x00007FF77671213D]
+	(No symbol) [0x00007FF776701629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-10 00:15:10,969][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/register"]')
+[2024-12-10 00:15:11,091][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:15:11,091][base_page.py 36][INFO]: 定位元素('id', 'jsRegMobile')
+[2024-12-10 00:15:11,240][base_page.py 63][INFO]: 输入内容为13800005555
+[2024-12-10 00:15:11,241][base_page.py 36][INFO]: 定位元素('id', 'jsSendCode')
+[2024-12-10 00:15:11,323][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:15:13,324][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = 13800005555 order by id desc limit 1;
+[2024-12-10 00:15:13,348][mysql_util.py 28][INFO]: sql执行结果{'code': '5104'}
+[2024-12-10 00:15:13,348][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegCaptcha')
+[2024-12-10 00:15:13,455][base_page.py 63][INFO]: 输入内容为5104
+[2024-12-10 00:15:13,455][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegPwd')
+[2024-12-10 00:15:13,566][base_page.py 63][INFO]: 输入内容为123456
+[2024-12-10 00:15:13,566][base_page.py 36][INFO]: 定位元素('id', 'jsMobileRegBtn')
+[2024-12-10 00:15:13,650][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:15:13,651][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:15:13,856][base_page.py 163][INFO]: 元素('css selector', 'a[href="#/app/home/member/userinfo"]')的text为13800005555
+[2024-12-10 00:15:13,856][assert_util.py 12][INFO]: 预期结果:13800005555 == 13800005555
+[2024-12-10 00:15:13,856][assert_util.py 30][INFO]: 断言成功
+[2024-12-10 00:15:16,858][mysql_util.py 43][INFO]: 执行sql:delete from users_userprofile where username = 13800005555
+[2024-12-10 00:15:16,927][conftest.py 8][INFO]: 执行sqldelete from users_userprofile where username = 13800005555
+[2024-12-10 00:22:02,905][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/register"]')
+[2024-12-10 00:22:03,052][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:22:03,053][base_page.py 36][INFO]: 定位元素('id', 'jsRegMobile')
+[2024-12-10 00:22:03,209][base_page.py 63][INFO]: 输入内容为13800005555
+[2024-12-10 00:22:03,209][base_page.py 36][INFO]: 定位元素('id', 'jsSendCode')
+[2024-12-10 00:22:03,297][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:22:05,300][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = 13800005555 order by id desc limit 1;
+[2024-12-10 00:22:05,327][mysql_util.py 28][INFO]: sql执行结果{'code': '5952'}
+[2024-12-10 00:22:05,327][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegCaptcha')
+[2024-12-10 00:22:05,433][base_page.py 63][INFO]: 输入内容为5952
+[2024-12-10 00:22:05,433][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegPwd')
+[2024-12-10 00:22:05,539][base_page.py 63][INFO]: 输入内容为123456
+[2024-12-10 00:22:05,539][base_page.py 36][INFO]: 定位元素('id', 'jsMobileRegBtn')
+[2024-12-10 00:22:05,621][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:22:05,621][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:22:05,839][base_page.py 163][INFO]: 元素('css selector', 'a[href="#/app/home/member/userinfo"]')的text为13800005555
+[2024-12-10 00:22:05,839][assert_util.py 12][INFO]: 预期结果:13800005555 == 13800005555
+[2024-12-10 00:22:05,839][assert_util.py 30][INFO]: 断言成功
+[2024-12-10 00:22:08,852][mysql_util.py 43][INFO]: 执行sql:delete from users_userprofile where username = 13800005555
+[2024-12-10 00:22:08,926][conftest.py 8][INFO]: 执行sqldelete from users_userprofile where username = 13800005555
+[2024-12-10 00:22:08,927][mysql_util.py 43][INFO]: 执行sql:delete from users_verifycode where mobile = 13800005555
+[2024-12-10 00:22:08,987][conftest.py 13][INFO]: 执行sqldelete from users_verifycode where mobile = 13800005555
+[2024-12-10 00:22:36,577][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/register"]')
+[2024-12-10 00:22:36,724][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:22:36,724][base_page.py 36][INFO]: 定位元素('id', 'jsRegMobile')
+[2024-12-10 00:22:36,876][base_page.py 63][INFO]: 输入内容为13800005555
+[2024-12-10 00:22:36,876][base_page.py 36][INFO]: 定位元素('id', 'jsSendCode')
+[2024-12-10 00:22:37,015][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:22:39,024][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = 13800005555 order by id desc limit 1;
+[2024-12-10 00:22:39,050][mysql_util.py 28][INFO]: sql执行结果{'code': '9852'}
+[2024-12-10 00:22:39,051][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegCaptcha')
+[2024-12-10 00:22:39,151][base_page.py 63][INFO]: 输入内容为9852
+[2024-12-10 00:22:39,151][base_page.py 36][INFO]: 定位元素('id', 'jsPhoneRegPwd')
+[2024-12-10 00:22:39,266][base_page.py 63][INFO]: 输入内容为123456
+[2024-12-10 00:22:39,267][base_page.py 36][INFO]: 定位元素('id', 'jsMobileRegBtn')
+[2024-12-10 00:22:39,361][base_page.py 79][INFO]: 点击按钮
+[2024-12-10 00:22:39,361][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+[2024-12-10 00:22:39,577][base_page.py 163][INFO]: 元素('css selector', 'a[href="#/app/home/member/userinfo"]')的text为13800005555
+[2024-12-10 00:22:39,577][assert_util.py 12][INFO]: 预期结果:13800005555 == 13800005555
+[2024-12-10 00:22:39,577][assert_util.py 30][INFO]: 断言成功
+[2024-12-10 00:22:42,589][mysql_util.py 43][INFO]: 执行sql:delete from users_userprofile where username = 13800005555
+[2024-12-10 00:22:42,662][conftest.py 8][INFO]: 执行sqldelete from users_userprofile where username = 13800005555
+[2024-12-10 00:22:42,662][mysql_util.py 43][INFO]: 执行sql:delete from users_verifycode where mobile = 13800005555
+[2024-12-10 00:22:42,717][conftest.py 13][INFO]: 执行sqldelete from users_verifycode where mobile = 13800005555

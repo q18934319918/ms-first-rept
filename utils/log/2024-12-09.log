@@ -1,0 +1,14 @@
+[2024-12-09 22:21:43,467][mysql_util.py 24][INFO]: 执行sql:sql
+[2024-12-09 22:22:17,097][mysql_util.py 24][INFO]: 执行sql:sql
+[2024-12-09 22:26:55,525][mysql_util.py 24][INFO]: 执行sql:sql
+[2024-12-09 22:37:35,408][mysql_util.py 24][INFO]: 执行sql:sql
+[2024-12-09 22:38:11,434][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = '13800002222' order by id limit 1
+[2024-12-09 22:38:11,462][mysql_util.py 28][INFO]: sql执行结果{'code': '6535'}
+[2024-12-09 22:39:11,327][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = '13800002222' order by id limit 1
+[2024-12-09 22:39:11,355][mysql_util.py 28][INFO]: sql执行结果{'code': '6535'}
+[2024-12-09 22:40:59,549][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = '13800002222' order by id desc
+[2024-12-09 22:40:59,579][mysql_util.py 28][INFO]: sql执行结果{'code': '6535'}
+[2024-12-09 22:41:09,912][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = '13800002222' order by id desc
+[2024-12-09 22:41:09,946][mysql_util.py 28][INFO]: sql执行结果{'code': '6535'}
+[2024-12-09 22:42:53,331][mysql_util.py 24][INFO]: 执行sql:select code from users_verifycode where mobile = '13800002222' order by id desc
+[2024-12-09 22:42:53,355][mysql_util.py 28][INFO]: sql执行结果{'code': '6535'}

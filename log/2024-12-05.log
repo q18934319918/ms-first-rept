@@ -1,0 +1,131 @@
+[2024-12-05 20:10:22,712][test_baidu1.py 16][INFO]: 预期结果百度一下，你就知道,断言方式==,实际结果=百度一下，你就知道
+[2024-12-05 20:23:41,333][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 == 百度一下，你就知道
+[2024-12-05 20:23:41,333][assert_util.py 23][INFO]: 断言成功
+[2024-12-05 20:29:07,382][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 == 百度一下，你就知道1
+[2024-12-05 20:36:50,048][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 == 百度一下，你就知道1
+[2024-12-05 20:36:50,049][assert_util.py 26][ERROR]: 断言失败
+[2024-12-05 20:37:34,248][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 == 百度一下，你就知道1
+[2024-12-05 20:37:34,249][assert_util.py 26][ERROR]: 断言失败
+[2024-12-05 20:43:57,353][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 !== 百度一下，你就知道
+[2024-12-05 20:43:57,354][assert_util.py 24][INFO]: 断言成功
+[2024-12-05 20:49:02,290][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 !== 百度一下，你就知道
+[2024-12-05 20:49:02,291][assert_util.py 28][ERROR]: !==断言方式错误，请填写正确
+[2024-12-05 20:50:59,084][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 !== 百度一下，你就知道
+[2024-12-05 20:50:59,085][assert_util.py 28][ERROR]: !== 断言方式错误，请填写正确
+[2024-12-05 20:53:18,159][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 !== 百度一下，你就知道
+[2024-12-05 20:54:21,188][assert_util.py 28][ERROR]: !== 断言方式错误，请填写正确
+[2024-12-05 20:55:16,409][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 == 百度一下，你就知道
+[2024-12-05 20:55:16,409][assert_util.py 30][INFO]: 断言成功
+[2024-12-05 20:55:43,660][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 != 百度一下，你就知道1
+[2024-12-05 20:55:43,660][assert_util.py 30][INFO]: 断言成功
+[2024-12-05 20:57:24,394][assert_util.py 12][INFO]: 预期结果:百度一下，你就知道 == 百度一下，你就知道
+[2024-12-05 20:57:24,394][assert_util.py 30][INFO]: 断言成功
+[2024-12-05 20:57:24,394][assert_util.py 12][INFO]: 预期结果:https://www.baidu.com/ == https://www.baidu.com/
+[2024-12-05 20:57:24,395][assert_util.py 30][INFO]: 断言成功
+[2024-12-05 22:44:29,270][base_page.py 14][INFO]: 当前定位('id', 'kw')
+[2024-12-05 22:44:29,605][base_page.py 14][INFO]: 当前定位('id', 'su')
+[2024-12-05 23:13:07,849][base_page.py 21][INFO]: 定位元素('id', 'kw')
+[2024-12-05 23:13:08,179][base_page.py 21][INFO]: 定位元素('id', 'su')
+[2024-12-05 23:14:16,492][base_page.py 21][INFO]: 定位元素('id', 'kw1')
+[2024-12-05 23:30:22,738][base_page.py 30][INFO]: 定位元素('id', 'kw1')
+[2024-12-05 23:30:33,264][base_page.py 38][ERROR]: ('id', 'kw1')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-05 23:30:33,264][base_page.py 40][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-05 23:30:33,264][base_page.py 30][INFO]: 定位元素('id', 'kw1')
+[2024-12-05 23:30:43,826][base_page.py 38][ERROR]: ('id', 'kw1')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-05 23:31:04,835][base_page.py 30][INFO]: 定位元素('id', 'kw1')
+[2024-12-05 23:31:15,347][base_page.py 38][ERROR]: ('id', 'kw1')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-05 23:31:15,348][base_page.py 40][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-05 23:31:15,348][base_page.py 30][INFO]: 定位元素('id', 'kw1')
+[2024-12-05 23:31:25,859][base_page.py 38][ERROR]: ('id', 'kw1')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+

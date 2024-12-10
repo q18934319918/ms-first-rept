@@ -1,0 +1,22 @@
+INFO     log:base_page.py:36 定位元素('css selector', 'a[href="#/app/register"]')
+INFO     log:base_page.py:79 点击按钮
+INFO     log:base_page.py:36 定位元素('id', 'jsRegMobile')
+INFO     log:base_page.py:63 输入内容为13800005555
+INFO     log:base_page.py:36 定位元素('id', 'jsSendCode')
+INFO     log:base_page.py:79 点击按钮
+INFO     log:mysql_util.py:24 执行sql:select code from users_verifycode where mobile = 13800005555 order by id desc limit 1;
+INFO     log:mysql_util.py:28 sql执行结果{'code': '9852'}
+INFO     log:base_page.py:36 定位元素('id', 'jsPhoneRegCaptcha')
+INFO     log:base_page.py:63 输入内容为9852
+INFO     log:base_page.py:36 定位元素('id', 'jsPhoneRegPwd')
+INFO     log:base_page.py:63 输入内容为123456
+INFO     log:base_page.py:36 定位元素('id', 'jsMobileRegBtn')
+INFO     log:base_page.py:79 点击按钮
+INFO     log:base_page.py:36 定位元素('css selector', 'a[href="#/app/home/member/userinfo"]')
+INFO     log:base_page.py:163 元素('css selector', 'a[href="#/app/home/member/userinfo"]')的text为13800005555
+INFO     log:assert_util.py:12 预期结果:13800005555 == 13800005555
+INFO     log:assert_util.py:30 断言成功
+INFO     log:mysql_util.py:43 执行sql:delete from users_userprofile where username = 13800005555
+INFO     log:conftest.py:8 执行sqldelete from users_userprofile where username = 13800005555
+INFO     log:mysql_util.py:43 执行sql:delete from users_verifycode where mobile = 13800005555
+INFO     log:conftest.py:13 执行sqldelete from users_verifycode where mobile = 13800005555

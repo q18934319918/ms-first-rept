@@ -1,0 +1,832 @@
+[2024-12-08 10:44:38,958][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 10:44:38,958][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 10:44:39,046][base_page.py 184][INFO]: 根据下标0获取index
+[2024-12-08 10:45:25,704][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 10:45:25,704][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 10:45:25,793][base_page.py 184][INFO]: 根据下标0获取index
+[2024-12-08 10:45:42,386][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 10:45:42,387][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 10:45:42,521][base_page.py 184][INFO]: 根据下标1获取index
+[2024-12-08 10:45:55,606][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 10:45:55,607][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 10:45:55,746][base_page.py 184][INFO]: 根据下标2获取index
+[2024-12-08 10:58:58,123][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 10:58:58,124][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 11:03:19,251][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 11:03:19,252][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 11:03:19,363][base_page.py 202][INFO]: 根据下标48获取select
+[2024-12-08 11:04:46,764][base_page.py 86][INFO]: 打开网址https://sahitest.com/demo/selectTest.htm
+[2024-12-08 11:04:46,766][base_page.py 34][INFO]: 定位元素('id', 's1')
+[2024-12-08 11:04:46,874][base_page.py 214][INFO]: 根据下标Home Phone获取select
+[2024-12-08 15:22:25,610][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:22:36,128][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/login"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-08 15:22:36,128][base_page.py 46][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-08 15:22:36,128][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:22:46,644][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/login"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-08 15:24:28,184][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:24:28,317][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:24:28,323][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:24:28,324][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:26:21,195][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:26:21,337][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:26:21,343][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:26:21,343][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:27:16,381][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:27:16,520][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:27:16,526][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:27:16,526][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:32:09,547][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:32:09,698][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:32:09,705][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:32:09,705][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:40:30,707][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:40:30,842][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:40:30,849][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:40:30,849][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:40:30,864][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:40:30,865][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:40:31,322][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:40:31,322][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 15:40:31,412][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:40:31,421][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:40:31,422][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:40:31,437][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:40:31,438][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:40:31,752][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:40:31,752][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 15:40:31,838][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:40:31,846][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:40:31,846][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:40:31,858][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:40:31,859][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:40:32,185][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:40:32,185][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 15:40:32,276][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:40:32,284][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:40:32,285][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:40:32,300][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:40:32,301][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 15:40:32,448][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:40:32,460][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/home/index
+[2024-12-08 15:40:32,462][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 15:41:09,498][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:41:09,645][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:41:09,653][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:41:09,653][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:41:09,672][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:41:09,673][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:41:10,128][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:41:10,129][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 15:41:10,222][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:41:10,227][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:41:10,228][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:41:10,246][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:41:10,247][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:41:10,560][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:41:10,561][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 15:41:10,669][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:41:10,676][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:41:10,677][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:41:10,698][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:41:10,698][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:41:10,991][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:41:10,992][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 15:41:11,085][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:41:11,095][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:41:11,095][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:41:11,111][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:41:11,111][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 15:41:11,241][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:41:11,253][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/home/index
+[2024-12-08 15:41:11,253][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 15:45:27,284][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:45:27,428][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:45:27,435][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:45:27,436][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:45:27,456][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:45:27,457][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:45:27,891][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:45:27,892][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 15:45:27,989][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:45:27,995][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:45:27,996][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:45:28,019][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:45:28,019][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:45:28,351][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:45:28,352][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 15:45:28,485][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:45:28,492][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:45:28,493][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:45:28,507][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:45:28,507][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:45:28,817][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:45:28,817][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 15:45:28,906][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:45:28,916][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:45:28,916][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:45:28,931][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:45:28,932][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 15:45:29,072][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:45:29,091][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 15:45:40,130][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/shoppingcart/cart
+[2024-12-08 15:45:40,131][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 15:47:09,031][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:47:09,169][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:47:09,175][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:47:09,176][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:47:09,195][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:47:09,195][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:47:09,642][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:47:09,643][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 15:47:09,742][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:47:09,747][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:47:09,748][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:47:09,765][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:47:09,765][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:47:10,073][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:47:10,073][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 15:47:10,165][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:47:10,174][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:47:10,174][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:47:10,197][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:47:10,198][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:47:10,501][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:47:10,502][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 15:47:10,633][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:47:10,647][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:47:10,647][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:47:10,662][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:47:10,663][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 15:47:10,823][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:47:10,833][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 15:47:23,167][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:47:23,168][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:47:23,231][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 15:48:16,555][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:48:16,695][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:48:16,703][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:48:16,704][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:48:16,721][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:48:16,721][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:48:17,154][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:48:17,154][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 15:48:17,250][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:48:17,256][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:48:17,257][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:48:17,273][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:48:17,273][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:48:17,606][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:48:17,607][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 15:48:17,702][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:48:17,715][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:48:17,715][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:48:17,738][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:48:17,738][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:48:18,038][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:48:18,039][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 15:48:18,150][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:48:18,156][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:48:18,156][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:48:18,172][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:48:18,173][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 15:48:18,313][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:48:18,330][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 15:49:51,615][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:49:51,616][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:50:30,609][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 15:50:30,748][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:50:30,757][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:50:30,758][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:50:30,773][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:50:30,774][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:50:31,214][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:50:31,215][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 15:50:31,310][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:50:31,317][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:50:31,317][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:50:31,334][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:50:31,335][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:50:31,654][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:50:31,655][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 15:50:31,757][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:50:31,766][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:50:31,767][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:50:31,785][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:50:31,785][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 15:50:32,085][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 15:50:32,086][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 15:50:32,173][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:50:32,181][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:50:32,181][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:50:32,194][base_page.py 296][INFO]: 网页后退
+[2024-12-08 15:56:06,849][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 15:56:07,007][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 15:56:11,675][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 15:56:16,989][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 15:56:16,989][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 15:56:17,912][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 16:00:01,917][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:00:02,062][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:02,069][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:02,069][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:02,087][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:02,088][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:00:02,530][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:00:02,531][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:00:02,622][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:02,630][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:02,631][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:02,648][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:02,649][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:00:02,963][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:00:02,963][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:00:03,047][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:03,057][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:03,058][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:03,072][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:03,073][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:00:03,377][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:00:03,378][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:00:03,480][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:03,490][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:03,490][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:10,286][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:15,736][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:00:15,899][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:15,917][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 16:00:16,128][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:16,129][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:16,159][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 16:00:50,877][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:00:51,026][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:51,032][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:51,033][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:51,048][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:51,048][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:00:51,480][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:00:51,481][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:00:51,574][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:51,582][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:51,583][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:51,601][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:51,601][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:00:51,940][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:00:51,940][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:00:52,028][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:00:52,036][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:00:52,037][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:00:52,056][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:00:52,057][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:00:52,357][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:00:52,358][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:00:52,448][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:01:12,961][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:01:12,962][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:01:25,825][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:01:39,162][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:01:39,328][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:01:39,358][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 16:01:39,545][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:01:39,546][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:01:39,576][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 16:02:07,180][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:02:07,320][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:02:07,326][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:02:07,327][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:02:07,343][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:02:07,344][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:02:07,779][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:02:07,780][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:02:07,877][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:02:07,888][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:02:07,888][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:02:07,906][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:02:07,906][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:02:08,226][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:02:08,226][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:02:08,354][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:02:08,364][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:02:08,365][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:02:08,381][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:02:08,382][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:02:08,685][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:02:20,032][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:02:30,533][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/receive"]')定位失败，错误信息Message: 
+
+[2024-12-08 16:02:30,533][base_page.py 46][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-08 16:02:30,534][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:02:41,026][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/receive"]')定位失败，错误信息Message: 
+
+[2024-12-08 16:03:12,924][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:03:13,059][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:03:13,067][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:03:13,067][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:03:13,081][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:03:13,081][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:03:13,524][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:03:13,525][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:03:13,620][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:03:13,627][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:03:13,627][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:03:13,643][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:03:13,644][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:03:13,975][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:03:13,976][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:03:14,066][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:03:14,073][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:03:14,074][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:03:14,096][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:03:14,096][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:03:14,418][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:03:21,717][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:03:32,193][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/receive"]')定位失败，错误信息Message: 
+
+[2024-12-08 16:03:32,193][base_page.py 46][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-08 16:03:32,194][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:03:42,249][base_page.py 44][ERROR]: ('css selector', 'a[href="#/app/home/member/receive"]')定位失败，错误信息Message: 
+
+[2024-12-08 16:04:19,964][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:04:20,100][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:04:20,108][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:04:20,109][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:04:20,122][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:04:20,122][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:04:20,562][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:04:20,562][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:04:20,683][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:04:20,691][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:04:20,691][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:04:20,706][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:04:20,706][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:04:21,005][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:04:21,005][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:04:21,109][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:04:21,118][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:04:21,118][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:04:21,137][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:04:21,137][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:04:21,439][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:04:21,439][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:04:21,519][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:04:21,531][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:04:21,531][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:04:21,544][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:04:21,545][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:04:21,688][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:04:21,696][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/home/index
+[2024-12-08 16:04:21,697][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 16:05:37,374][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:05:37,498][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:05:37,503][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:05:37,504][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:05:37,519][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:05:37,519][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:05:37,972][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:05:37,972][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:05:38,080][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:05:38,088][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:05:38,089][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:05:38,106][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:05:38,106][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:05:38,417][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:05:38,417][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:05:38,516][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:05:38,526][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:05:38,526][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:05:38,544][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:05:38,545][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:05:38,845][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:05:38,845][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:05:38,932][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:05:38,939][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:05:38,940][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:05:38,955][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:05:38,956][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:05:39,105][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:05:39,121][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 16:05:51,249][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/shoppingcart/cart
+[2024-12-08 16:05:51,250][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 16:06:21,564][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:06:21,697][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:06:21,706][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:06:21,706][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:06:21,723][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:06:21,723][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:06:22,187][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:06:22,187][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:06:22,283][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:06:22,289][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:06:22,289][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:06:22,305][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:06:22,305][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:06:22,633][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:06:22,633][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:06:22,727][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:06:22,733][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:06:22,733][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:06:22,745][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:06:22,746][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:06:23,046][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:06:23,046][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:06:23,149][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:06:23,159][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:06:23,159][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:06:23,177][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:06:23,177][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:06:23,339][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:06:23,377][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 16:06:35,584][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:06:35,584][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:06:35,643][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 16:07:03,762][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:07:03,911][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:07:03,917][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:07:03,918][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:07:03,935][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:07:03,935][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:07:04,394][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:07:04,394][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:07:04,500][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:07:04,508][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:07:04,508][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:07:04,529][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:07:04,529][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:07:04,850][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:07:04,850][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:07:04,943][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:07:04,947][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:07:04,948][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:07:04,960][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:07:04,960][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:07:05,264][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:07:05,265][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:07:05,361][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:07:05,370][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:07:05,371][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:07:05,383][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:07:05,384][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:07:05,533][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:07:05,543][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/home/index
+[2024-12-08 16:07:05,543][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 16:08:33,403][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 16:08:33,541][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:08:33,546][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:08:33,546][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:08:33,561][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:08:33,561][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:08:34,003][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:08:34,003][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 16:08:34,098][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:08:34,105][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:08:34,106][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:08:34,126][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:08:34,126][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:08:34,442][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:08:34,443][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 16:08:34,533][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:08:34,543][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:08:34,543][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:08:34,562][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:08:34,563][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 16:08:34,871][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 16:08:34,871][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 16:08:34,967][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:08:34,977][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:08:34,977][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:08:34,993][base_page.py 296][INFO]: 网页后退
+[2024-12-08 16:08:34,993][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 16:08:35,125][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 16:08:35,141][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 16:08:48,848][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 16:08:48,848][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 16:08:48,887][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 18:44:01,021][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:44:01,143][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:44:01,152][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:44:01,152][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:44:01,168][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:44:01,168][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:44:01,628][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:44:01,628][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:44:01,723][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:44:01,730][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:44:01,730][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:44:01,748][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:44:01,749][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:44:02,077][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:44:02,077][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:44:02,164][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:44:02,174][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:44:02,174][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:44:02,191][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:44:02,191][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:44:02,493][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:44:02,494][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:44:02,588][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:44:02,597][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:44:02,597][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:44:02,613][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:44:02,613][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:44:02,766][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:44:02,782][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:44:11,688][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:44:11,688][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:44:11,723][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 18:46:57,797][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:46:57,939][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:46:57,947][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:46:57,947][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:46:57,964][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:46:57,964][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:46:58,408][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:46:58,409][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:46:58,497][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:46:58,505][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:46:58,506][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:46:58,523][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:46:58,523][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:46:58,849][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:46:58,849][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:46:58,960][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:46:58,968][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:46:58,968][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:46:58,986][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:46:58,987][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:46:59,280][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:46:59,280][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:46:59,364][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:46:59,369][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:46:59,369][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:46:59,385][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:46:59,385][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:46:59,538][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:46:59,568][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:47:06,615][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:47:06,615][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:47:06,679][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 18:48:58,016][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:48:58,162][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:48:58,168][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:48:58,168][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:48:58,181][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:48:58,181][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:48:58,611][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:48:58,612][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:48:58,739][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:48:58,744][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:48:58,744][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:48:58,759][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:48:58,759][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:48:59,071][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:48:59,071][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:48:59,161][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:48:59,167][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:48:59,167][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:48:59,186][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:48:59,186][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:48:59,495][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:48:59,496][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:48:59,588][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:48:59,598][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:48:59,598][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:48:59,613][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:48:59,613][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:48:59,763][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:48:59,779][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:49:17,824][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/shoppingcart/cart
+[2024-12-08 18:49:17,824][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 18:50:57,789][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:50:57,929][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:50:57,938][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:50:57,938][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:50:57,953][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:50:57,953][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:50:58,397][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:50:58,397][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:50:58,493][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:50:58,499][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:50:58,499][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:50:58,513][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:50:58,513][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:50:58,843][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:50:58,843][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:50:58,934][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:50:58,940][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:50:58,940][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:50:58,953][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:50:58,954][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:50:59,257][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:50:59,257][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:50:59,408][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:50:59,414][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:50:59,414][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:50:59,430][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:50:59,431][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:50:59,563][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:50:59,574][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:51:06,520][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/shoppingcart/cart
+[2024-12-08 18:51:06,520][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 18:51:42,226][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:51:42,367][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:51:42,372][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:51:42,372][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:51:42,392][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:51:42,393][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:51:42,859][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:51:42,859][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:51:42,957][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:51:42,966][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:51:42,966][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:51:42,986][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:51:42,987][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:51:43,304][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:51:43,304][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:51:43,393][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:51:43,400][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:51:43,400][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:51:43,418][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:51:43,419][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:51:43,724][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:51:43,725][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:51:43,806][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:51:43,817][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:51:43,817][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:51:43,831][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:51:43,832][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:51:43,975][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:51:43,990][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:51:55,370][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/shoppingcart/cart
+[2024-12-08 18:51:55,371][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 18:52:27,660][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:52:27,793][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:52:27,800][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:52:27,801][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:52:27,815][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:52:27,815][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:52:28,274][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:52:28,274][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:52:28,369][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:52:28,378][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:52:28,378][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:52:28,399][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:52:28,400][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:52:28,710][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:52:28,710][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:52:28,823][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:52:28,832][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:52:28,832][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:52:28,848][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:52:28,848][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:52:29,152][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:52:29,153][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:52:29,252][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:52:29,262][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:52:29,262][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:52:29,280][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:52:29,280][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:52:29,419][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:52:29,432][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:52:42,587][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:52:42,587][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:52:42,627][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 18:53:28,484][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:53:28,621][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:53:28,629][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:53:28,629][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:53:28,644][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:53:28,644][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:53:29,089][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:53:29,089][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:53:29,180][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:53:29,187][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:53:29,187][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:53:29,204][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:53:29,204][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:53:29,516][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:53:29,516][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:53:29,604][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:53:29,612][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:53:29,612][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:53:29,630][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:53:29,630][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:53:29,929][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:53:29,929][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:53:30,037][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:53:30,044][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:53:30,044][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:53:30,062][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:53:30,062][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:53:30,201][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:53:30,214][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:53:41,829][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/shoppingcart/cart
+[2024-12-08 18:53:41,829][assert_util.py 32][ERROR]: 断言失败
+[2024-12-08 18:54:13,649][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:54:13,788][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:54:13,794][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:54:13,795][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:54:13,809][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:54:13,809][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:54:14,262][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:54:14,262][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:54:14,351][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:54:14,358][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:54:14,358][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:54:14,375][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:54:14,375][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:54:14,710][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:54:14,710][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:54:14,837][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:54:14,842][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:54:14,842][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:54:14,862][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:54:14,863][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:54:15,185][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:54:15,185][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:54:15,280][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:54:15,289][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:54:15,290][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:54:15,305][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:54:15,306][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:54:15,465][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:54:15,480][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:54:35,234][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:54:35,235][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:54:35,305][base_page.py 96][INFO]: 关闭浏览器
+[2024-12-08 18:55:28,901][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/login"]')
+[2024-12-08 18:55:29,047][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:55:29,054][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:55:29,055][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:55:29,069][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:55:29,070][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:55:29,530][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:55:29,530][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/order"]')
+[2024-12-08 18:55:29,622][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:55:29,631][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:55:29,631][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:55:29,649][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:55:29,649][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:55:29,961][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:55:29,961][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/collection"]')
+[2024-12-08 18:55:30,040][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:55:30,052][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:55:30,052][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:55:30,069][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:55:30,069][base_page.py 36][INFO]: 定位元素('xpath', '//a[contains(text(),"会员中心")]')
+[2024-12-08 18:55:30,373][base_page.py 169][INFO]: 鼠标移动到('xpath', '//a[contains(text(),"会员中心")]')位置
+[2024-12-08 18:55:30,373][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/home/member/receive"]')
+[2024-12-08 18:55:30,458][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:55:30,468][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:55:30,468][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:55:30,482][base_page.py 296][INFO]: 网页后退
+[2024-12-08 18:55:30,483][base_page.py 36][INFO]: 定位元素('css selector', 'a[href="#/app/shoppingcart/cart"]')
+[2024-12-08 18:55:30,632][base_page.py 79][INFO]: 点击按钮
+[2024-12-08 18:55:30,667][base_page.py 129][INFO]: 切换窗口
+[2024-12-08 18:55:40,085][assert_util.py 12][INFO]: 预期结果:http://meikefresh.5istudy.online/#/app/login == http://meikefresh.5istudy.online/#/app/login
+[2024-12-08 18:55:40,085][assert_util.py 30][INFO]: 断言成功
+[2024-12-08 18:55:40,148][base_page.py 96][INFO]: 关闭浏览器

@@ -1,0 +1,31 @@
+userinfo:
+  username: admin
+  password: 123456
+
+skill:
+  - 接口自动化
+  - UI自动化
+  - 性能测试
+
+userinfos:
+  - username: admin
+    password: 123456
+  - username: test01
+    password: 123456
+
+userinfos_list:
+  - [ admin,123456 ]
+  - [ test01,123456 ]
+
+skills:
+  - - 接口自动化
+    - UI自动化
+    - 性能测试
+
+skills2:
+  - [ 接口自动化,UI自动化,性能测试 ]
+
+#项目
+register_ok:
+  mobile: 13800005555
+  password: 123456

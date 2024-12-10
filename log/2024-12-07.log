@@ -1,0 +1,249 @@
+[2024-12-07 13:29:11,264][base_page.py 83][INFO]: 打开网址http://www.bilibili.com
+[2024-12-07 13:29:12,183][base_page.py 107][INFO]: 刷新浏览器
+[2024-12-07 13:29:12,319][base_page.py 91][INFO]: 关闭浏览器
+[2024-12-07 13:29:14,476][base_page.py 99][INFO]: 退出浏览器
+[2024-12-07 13:32:10,886][base_page.py 107][INFO]: 刷新浏览器
+[2024-12-07 13:32:11,000][base_page.py 91][INFO]: 关闭浏览器
+[2024-12-07 13:32:13,131][base_page.py 99][INFO]: 退出浏览器
+[2024-12-07 13:32:44,980][base_page.py 83][INFO]: 打开网址http://www.bilibili.com
+[2024-12-07 13:32:45,829][base_page.py 107][INFO]: 刷新浏览器
+[2024-12-07 13:32:45,956][base_page.py 91][INFO]: 关闭浏览器
+[2024-12-07 13:32:48,080][base_page.py 99][INFO]: 退出浏览器
+[2024-12-07 13:35:03,821][base_page.py 83][INFO]: 打开网址http://www.bilibili.com
+[2024-12-07 13:35:04,664][base_page.py 107][INFO]: 刷新浏览器
+[2024-12-07 13:35:04,782][base_page.py 91][INFO]: 关闭浏览器
+[2024-12-07 13:35:06,919][base_page.py 99][INFO]: 退出浏览器
+[2024-12-07 14:02:48,310][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 14:02:48,673][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:02:48,673][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="//help.baidu.com"]')
+[2024-12-07 14:02:59,198][base_page.py 39][ERROR]: ('css selector', 'a[href="//help.baidu.com"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-07 14:02:59,198][base_page.py 41][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-07 14:02:59,198][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="//help.baidu.com"]')
+[2024-12-07 14:03:09,739][base_page.py 39][ERROR]: ('css selector', 'a[href="//help.baidu.com"]')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-07 14:14:25,857][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 14:14:26,243][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:14:26,259][base_page.py 124][INFO]: 切换窗口
+[2024-12-07 14:14:26,262][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="//help.baidu.com"]')
+[2024-12-07 14:14:28,490][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:15:52,785][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 14:15:53,140][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:15:53,157][base_page.py 124][INFO]: 切换窗口
+[2024-12-07 14:15:53,160][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="//help.baidu.com"]')
+[2024-12-07 14:15:55,251][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:16:07,124][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 14:16:07,476][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:16:07,494][base_page.py 124][INFO]: 切换窗口
+[2024-12-07 14:16:07,497][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="//help.baidu.com"]')
+[2024-12-07 14:16:09,420][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:16:09,447][base_page.py 31][INFO]: 定位元素('id', 'kw')
+[2024-12-07 14:16:09,638][base_page.py 58][INFO]: 输入内容为UI自动化
+[2024-12-07 14:16:22,598][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 14:16:22,967][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:16:22,983][base_page.py 124][INFO]: 切换窗口
+[2024-12-07 14:16:22,985][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="//help.baidu.com"]')
+[2024-12-07 14:16:25,223][base_page.py 74][INFO]: 点击按钮
+[2024-12-07 14:16:25,248][base_page.py 31][INFO]: 定位元素('id', 'kw')
+[2024-12-07 14:16:25,401][base_page.py 58][INFO]: 输入内容为UI自动化
+[2024-12-07 17:43:01,390][base_page.py 31][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 17:43:01,652][base_page.py 158][INFO]: 元素('css selector', 'a[href="http://news.baidu.com"]')的text为新闻
+[2024-12-07 17:43:01,652][base_page.py 31][INFO]: 定位元素('id', 'su')
+[2024-12-07 17:43:01,692][base_page.py 158][INFO]: 元素('id', 'su')的text为百度一下
+[2024-12-07 20:35:38,067][base_page.py 32][INFO]: 定位元素('css selector', 'a[href="http://news.baidu.com"]')
+[2024-12-07 20:35:38,137][base_page.py 159][INFO]: 元素('css selector', 'a[href="http://news.baidu.com"]')的text为新闻
+[2024-12-07 20:35:38,137][base_page.py 32][INFO]: 定位元素('id', 'su')
+[2024-12-07 20:35:38,213][base_page.py 159][INFO]: 元素('id', 'su')的text为百度一下
+[2024-12-07 20:35:43,261][base_page.py 32][INFO]: 定位元素('xpath', '//*[@id="s-top-left"]/div/a')
+[2024-12-07 20:35:43,746][base_page.py 165][INFO]: 鼠标移动到('xpath', '//*[@id="s-top-left"]/div/a')位置
+[2024-12-07 21:01:43,360][base_page.py 84][INFO]: 打开网址http://sahitest.com/demo/dragDropMooTools.htm
+[2024-12-07 21:01:43,361][base_page.py 32][INFO]: 定位元素('id', 'dragger')
+[2024-12-07 21:01:43,396][base_page.py 32][INFO]: 定位元素('xpath', '/html/body/div[5]')
+[2024-12-07 21:01:43,965][base_page.py 171][INFO]: 鼠标从('id', 'dragger')拖动到('xpath', '/html/body/div[5]')
+[2024-12-07 21:07:17,583][base_page.py 85][INFO]: 打开网址http://sahitest.com/demo/dragDropMooTools.htm
+[2024-12-07 21:07:17,584][base_page.py 33][INFO]: 定位元素('id', 'dragger')
+[2024-12-07 21:07:17,617][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:14:58,831][base_page.py 85][INFO]: 打开网址http://sahitest.com/demo/dragDropMooTools.htm
+[2024-12-07 21:14:58,832][base_page.py 33][INFO]: 定位元素('id', 'dragger')
+[2024-12-07 21:14:58,860][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:15:25,547][base_page.py 85][INFO]: 打开网址http://sahitest.com/demo/dragDropMooTools.htm
+[2024-12-07 21:15:25,547][base_page.py 33][INFO]: 定位元素('id', 'dragger')
+[2024-12-07 21:15:25,577][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:18:23,370][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:18:23,371][base_page.py 33][INFO]: 定位元素('id', 'dragger')
+[2024-12-07 21:18:33,892][base_page.py 41][ERROR]: ('id', 'dragger')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-07 21:18:33,892][base_page.py 43][INFO]: 正在重新定位，当前重试次数:1
+[2024-12-07 21:18:33,892][base_page.py 33][INFO]: 定位元素('id', 'dragger')
+[2024-12-07 21:18:44,458][base_page.py 41][ERROR]: ('id', 'dragger')定位失败，错误信息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF679F32775+28773]
+	(No symbol) [0x00007FF679E9AFB0]
+	(No symbol) [0x00007FF679D3552A]
+	(No symbol) [0x00007FF679D88EAE]
+	(No symbol) [0x00007FF679D8919C]
+	(No symbol) [0x00007FF679DD23F7]
+	(No symbol) [0x00007FF679DAEFDF]
+	(No symbol) [0x00007FF679DCF1A4]
+	(No symbol) [0x00007FF679DAED43]
+	(No symbol) [0x00007FF679D7A548]
+	(No symbol) [0x00007FF679D7B6B1]
+	GetHandleVerifier [0x00007FF67A25F45D+3358029]
+	GetHandleVerifier [0x00007FF67A27430D+3443709]
+	GetHandleVerifier [0x00007FF67A2683FD+3394797]
+	GetHandleVerifier [0x00007FF679FF929B+842635]
+	(No symbol) [0x00007FF679EA654F]
+	(No symbol) [0x00007FF679EA1FA4]
+	(No symbol) [0x00007FF679EA213D]
+	(No symbol) [0x00007FF679E91629]
+	BaseThreadInitThunk [0x00007FFB63A87374+20]
+	RtlUserThreadStart [0x00007FFB6541CC91+33]
+
+[2024-12-07 21:20:07,166][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:20:07,166][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:20:07,197][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:20:26,140][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:20:26,141][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:20:26,172][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:20:42,268][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:20:42,269][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:20:42,301][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:22:05,553][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:22:05,554][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:22:05,585][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:23:12,155][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:23:12,155][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:23:12,185][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:23:26,343][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:23:26,344][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:23:27,553][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:24:24,295][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:24:24,296][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:24:24,325][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:24:37,534][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:24:37,534][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:24:37,566][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:25:25,951][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:25:25,952][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:25:25,982][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:27:21,624][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:27:21,625][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:27:21,660][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:27:33,386][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:27:33,386][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:27:33,419][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:31:51,611][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:32:43,095][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:32:43,096][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:32:43,125][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:38:30,104][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:38:36,982][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:38:37,015][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:45:21,739][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:45:21,740][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:45:21,775][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:48:05,102][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:48:05,103][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:48:05,133][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:48:40,650][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:48:40,650][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:48:40,684][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:51:23,640][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:51:23,643][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:51:23,673][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:52:46,612][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:52:46,615][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:52:46,644][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:53:04,378][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:53:04,380][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:53:04,411][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 21:58:42,885][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 21:58:45,902][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 21:58:45,935][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:16:01,309][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:16:04,317][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:16:04,348][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:16:27,855][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:16:30,867][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:16:30,897][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:17:54,122][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:17:57,134][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:17:57,743][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:18:29,615][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:18:29,619][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:18:30,217][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:19:30,643][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:19:30,647][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:19:31,221][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:31:53,385][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:31:53,390][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:31:53,421][base_page.py 177][INFO]: 鼠标拖动一段距离
+[2024-12-07 22:34:42,115][base_page.py 85][INFO]: 打开网址https://iviewui.com/view-ui-plus/component/form/slider
+[2024-12-07 22:34:42,119][base_page.py 33][INFO]: 定位元素('xpath', "//div[@class='ivu-slider-button']")
+[2024-12-07 22:34:42,724][base_page.py 177][INFO]: 鼠标拖动一段距离

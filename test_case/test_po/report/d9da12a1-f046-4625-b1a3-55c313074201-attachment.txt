@@ -1,0 +1,3 @@
+INFO     log:base_page.py:86 打开网址https://sahitest.com/demo/selectTest.htm
+INFO     log:base_page.py:34 定位元素('id', 's1')
+INFO     log:base_page.py:214 根据下标Home Phone获取select
